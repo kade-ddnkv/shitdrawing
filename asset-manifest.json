@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shitdrawing/static/css/main.f59c4237.css",
-    "main.js": "/shitdrawing/static/js/main.f3662394.js",
+    "main.css": "/shitdrawing/static/css/main.7767381c.css",
+    "main.js": "/shitdrawing/static/js/main.6fd490af.js",
     "static/js/787.d6c12b0b.chunk.js": "/shitdrawing/static/js/787.d6c12b0b.chunk.js",
-    "static/media/background.jpg": "/shitdrawing/static/media/background.415ef65cbf51d3a9b63a.jpg",
+    "static/media/background_image.jpg": "/shitdrawing/static/media/background_image.a5b77829d7aad0cc43c6.jpg",
     "static/media/logo.svg": "/shitdrawing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/shitdrawing/index.html",
-    "main.f59c4237.css.map": "/shitdrawing/static/css/main.f59c4237.css.map",
-    "main.f3662394.js.map": "/shitdrawing/static/js/main.f3662394.js.map",
+    "main.7767381c.css.map": "/shitdrawing/static/css/main.7767381c.css.map",
+    "main.6fd490af.js.map": "/shitdrawing/static/js/main.6fd490af.js.map",
     "787.d6c12b0b.chunk.js.map": "/shitdrawing/static/js/787.d6c12b0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f59c4237.css",
-    "static/js/main.f3662394.js"
+    "static/css/main.7767381c.css",
+    "static/js/main.6fd490af.js"
   ]
 }
